@@ -16,9 +16,9 @@ osTicket is an open-source support ticket system that streamlines customer servi
 - **Windows 10** (21H2)
 
 ## List of Prerequisites
-1. **Web Server**: Internet Information Services (IIS) installed.
+1. **Web Server**: Internet Information Services (IIht  S) installed.
 2. **PHP**: Version 7.2 or higher.
-3. **Database**: MySQL or MariaDB.
+3. **Database**: MySQL.
 4. **Composer**: Dependency manager for PHP.
 5. **SSL Certificate**: Recommended for secure connections.
 
@@ -44,7 +44,7 @@ osTicket is an open-source support ticket system that streamlines customer servi
 <p>
 <img src="path/to/screenshot3.png" height="80%" width="80%" alt="Database Setup"/>
 </p>
-1. Install MySQL.
+1. Install MySQL or MariaDB.
 2. Create a database for osTicket.
 3. Note down database name, username, and password.
 
